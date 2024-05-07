@@ -1,0 +1,30 @@
+
+  h1{
+    text-align: center;
+    color:#d3263a;
+    border: 10px solid transparent;
+    padding: 15px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 60%;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border: 5px solid #616A6B ;
+  }
+  
+  tr:hover {background-color: coral;}
+
+  h2{
+    text-decoration: underline;
+  }
+  hr {
+    position: relative;
+    top: 2px;
+    border: none;
+    height: 2px;
+    background: #203449;
+    margin-bottom: 2px;
+}
